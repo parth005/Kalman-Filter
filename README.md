@@ -7,3 +7,5 @@ I have integrated Arduino and python using pyserial to remove glitches in the re
 A Closer look to the 1-D Equations used in Kalman Filter Algorithm.
 First we assume an estimate and error in estimate then apply the below equations to converge the estimate to actual value. Number of iterations depends on the initial value we choose. 
 
+![image](https://user-images.githubusercontent.com/20594048/63640791-5eec2480-c6c2-11e9-823c-b3a956759548.png)
+
