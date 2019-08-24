@@ -10,7 +10,7 @@ First we assume an estimate and error in estimate then apply the below equations
 ![image](https://user-images.githubusercontent.com/20594048/63640791-5eec2480-c6c2-11e9-823c-b3a956759548.png)
 
 Kalman Gain is the ratio of Error in Estimate to Error in Estimate + Error in Measurement. The value of 0 < = KG < = 1 determines that which of Measurement and Estimate is stable. If KG is near 0 then Estimate is stable, if KG is near 1 then measurement is pretty accurate.  
-```Equations```
+#Equations
 
 ![image](https://user-images.githubusercontent.com/20594048/63640911-695aee00-c6c3-11e9-81f5-df4a1185e9fc.png)
 
